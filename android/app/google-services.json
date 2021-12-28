@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300781109039",
+    "project_id": "markme-ed939",
+    "storage_bucket": "markme-ed939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300781109039:android:ceae7d2ababf4f9cad6bda",
+        "android_client_info": {
+          "package_name": "com.example.markmeicons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300781109039-9vcc937hh2n9qni41vmab9176k1pk5ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67nlNEnUyved8GdoY3cMAYFrjckrEGR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300781109039-9vcc937hh2n9qni41vmab9176k1pk5ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
